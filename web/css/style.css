@@ -1,0 +1,24 @@
+body{
+	margin:0px;
+	padding:0px;
+	font-size: 12pt;
+	background-image:url(/images/background.png);
+	background-repeat:no-repeat;
+
+}
+#box{
+	margin:0 auto auto auto;
+	width:1020px;
+	clear:both;
+	background-color: #FFFFFF;
+}
+
+a:hover {
+	font-size: 12pt;
+	color: #FF4400;
+}
+a {
+	font-size: 12pt;
+	text-decoration: none;
+	color: #3C404D;
+}
