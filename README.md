@@ -8,13 +8,13 @@
 
 
 ## 采用技术 ： 
-- 前端：JSP + CSS + JavaScript + Jquery + Ajax
-- 后端：Spring + SpringMVC + Mybatis
+- 前端：HTML + CSS + JavaScript + Jquery + Ajax
+- 后端：Servlet + JSP + JSTL + Filter + Druid
 
 ## 开发环境 ：
 - 工具：IDEA、Navicat、Git
 - 环境：JDK 1.8、Tomcat 7.0、Mysql 8.0
-- 项目管理：Maven
+- 项目管理：Jar包依赖
 - 代码托管平台：GitHub
 
 ## 开发流程：  
